@@ -1,6 +1,6 @@
 # 201-straight-pulling-it
 Pulling it or something
-
+This is the README file for the "my_pull_exercise", which is my favorite repo ever!
 
 
 Sebastien is my goat even if he never shows up on time
